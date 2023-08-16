@@ -11,3 +11,28 @@ However, there are some differences between them.
 In programming, a variable is a container (storage area) to hold data.
 If you are sure that the value of a variable won't change throughout the program, it's recommended
 to use const .
+# OBJECTS AND PRIMITIVES
+## Value
+ - obiect
+ - ptimetive
+   ## primetive
+  - number
+  - string
+  - boolin
+  - underfind
+  - Null
+  - symbol
+  - biglt
+  ## object
+   - object leteral
+   - Arrays
+   - Function
+   - many more
+  ## Rules for Naming JavaScript Variables
+  ## 1. Variable names must start with either a letter, an underscore _, or the dollar sign $.
+  ## 2. Variable names cannot start with numbers. For example:
+   1  let text = "Wellcome"
+   2  let $text = "to"
+   3  let _text = "Softclub"
+  
+
