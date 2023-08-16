@@ -31,8 +31,8 @@ to use const .
   ## Rules for Naming JavaScript Variables
   ## 1. Variable names must start with either a letter, an underscore _, or the dollar sign $.
   ## 2. Variable names cannot start with numbers. For example:
-   1  let text = "Wellcome"
-   2  let $text = "to"
-   3  let _text = "Softclub"
+   - 1  let text = "Wellcome"
+   - 2  let $text = "to"
+   - 3  let _text = "Softclub"
   
 
