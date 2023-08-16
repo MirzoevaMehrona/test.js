@@ -34,5 +34,17 @@ to use const .
    - 1  let text = "Wellcome"
    - 2  let $text = "to"
    - 3  let _text = "Softclub"
+  ## Three important topics
+  ## > 01  Conditions
+  > IF/ELSE
+  > SWITCH
+  ## > 02  Loops
+  > FOR
+  > WHILE
+  > DO/WHILE
+  ## > 03  Functions 
+  > DECLARION
+  > EXPRETION
+  > IIFE 
   
 
