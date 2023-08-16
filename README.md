@@ -36,15 +36,15 @@ to use const .
    - 3  let _text = "Softclub"
   ## Three important topics
   ## > 01  Conditions
-  > IF/ELSE
-  > SWITCH
+  - IF/ELSE
+  - SWITCH
   ## > 02  Loops
-  > FOR
-  > WHILE
-  > DO/WHILE
+  - FOR
+  - WHILE
+  - DO/WHILE
   ## > 03  Functions 
-  > DECLARION
-  > EXPRETION
-  > IIFE 
+  - DECLARION
+  - EXPRETION
+  - IIFE 
   
 
