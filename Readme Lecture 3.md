@@ -1,9 +1,9 @@
 # Table of Contents
-1 String
-2 Namber
-3 Array
-4 Destructuring
-5 Spread & Rest
+1) String
+2) Namber
+3) Array
+4) Destructuring
+5) Spread & Rest
 
 ## What is a Method in java script ?
 > A method is a block of code which only runs when it is called.
